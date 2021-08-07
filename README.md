@@ -1,12 +1,13 @@
-### Olá! Eu sou o Yan Barreto. Bem vindo ao meu perfil! 👋
+### Olá! Eu sou o Yan Barreto. 👋
 
 ##
- <div>
+<div>
   <a href="https://github.com/YanBarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanBarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanBarreto&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YanBarreto&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" height="180em">
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanBarreto&layout=compact&langs_count=7&theme=dracula"/>
+ </a>
 </div>
- 
+  
 <div style="display: inline"><br>
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
@@ -14,7 +15,7 @@
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg">
-  <img align="right" alt="Yoda" src="">
+  <img align="right" alt="Yoda" src="https://i.giphy.com/media/qxkQ5PLLCnXW0/giphy.webp">
 </div>
   
   ##
@@ -30,5 +31,6 @@
   ![Snake animation](https://github.com/YanBarreto/YanBarreto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
   
   
