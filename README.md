@@ -1,12 +1,8 @@
 ### Olá! Eu sou o Yan Barreto. 👋
 
 ##
-<div>
-  <a href="https://github.com/YanBarreto">
-  <img src="https://github-readme-stats.vercel.app/api?username=YanBarreto&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" height="180em">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanBarreto&layout=compact&langs_count=7&theme=dracula&amp;include_all_commits=true&amp;count_private=true"/>
- </a>
-</div>
+![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanBarreto&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanBarreto&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline"><br>
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original.svg">
