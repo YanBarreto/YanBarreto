@@ -2,6 +2,7 @@
 
 ##
 ![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanBarreto&show_icons=true&theme=algolia)
+![N|Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanBarreto&theme=algolia)
 <div style="display: inline"><br>
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
