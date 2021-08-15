@@ -4,7 +4,7 @@
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=YanBarreto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanBarreto&theme=algolia&layout=compact&langs_count=7"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanBarreto&theme=algolia&layout=compact&langs_count=8"/>
 </div>
 
 <div style="display: inline"><br>
